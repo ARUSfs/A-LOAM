@@ -51,4 +51,4 @@ target_link_libraries(kittiHelper ${catkin_LIBRARIES} ${PCL_LIBRARIES} ${OpenCV_
 
 
 
-
+add_definitions(-std=c++14)
